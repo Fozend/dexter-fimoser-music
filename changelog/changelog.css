@@ -1,0 +1,84 @@
+body {
+    background-color: darkslategrey;
+    color: azure;
+    width: 100%;
+    margin: 0;
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 5vw;
+}
+
+.changelog-header {
+    font-size: 2vw;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 500;
+    font-weight: bold;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5vw;
+    display: flex;
+    background-color: #2c3e50;
+    color: azure;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 6vw;
+}
+
+.changelog-header p {
+    margin: 0;
+}
+
+.changelog {
+    font-size: 1.2vw;
+    width: 90%;
+    margin: 3vw auto;
+    padding: 1vw 2vw;
+    background-color: #34495e;
+    color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5vw;
+}
+
+.data, .version {
+    font-weight: bold;
+    margin-bottom: 1vw;
+    font-size: 1.5vw;
+}
+
+.main {
+    font-weight: bold;
+    margin-bottom: 1vw;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.point {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1.5vw;
+    margin-bottom: 1vw;
+    line-height: 1.5;
+}
+
+.point:before {
+    content: "- ";
+    color: white;
+}
+
+.lang {
+    position: absolute;
+    right: 3%;
+    display: flex;
+    align-items: center; 
+}
+
+.lang i {
+    margin-right: 1vw;
+    padding-top: 0;
+    font-size: 2vw;
+}
+
+.lang form select {
+    margin-bottom: 0.3vw;
+    font-size: 1.3vw;
+}
