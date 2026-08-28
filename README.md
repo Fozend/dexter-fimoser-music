@@ -169,7 +169,7 @@ Open the **Telegram** page (`telegram.php`). Posts load automatically and more l
 1. Install [XAMPP](https://www.apachefriends.org/) if not already installed.
 2. Copy the project folder into your XAMPP `htdocs` directory, e.g.:
    ```
-   D:\xampp\htdocs\labs\lab7
+   D:\xampp\htdocs\project
    ```
 3. Start **Apache** and **MySQL** from the XAMPP Control Panel.
 
@@ -183,7 +183,7 @@ Open the **Telegram** page (`telegram.php`). Posts load automatically and more l
 4. Set your local credentials - see [Configuration](#configuration) below.
 5. Open the site at:
    ```
-   http://localhost/labs/lab7/
+   http://localhost/project/
    ```
 
 ---
@@ -209,7 +209,6 @@ The repository does not include real database credentials or the YouTube API key
        'youtube_api_key' => 'YOUR_YOUTUBE_DATA_API_KEY',
    ];
    ```
-3. `helpers/config.php` is gitignored - never commit it with real values filled in.
 
 **MP3 filename format:** files in `mp3/` must follow `Artist -- Year -- Album -- Title.mp3` exactly (double space + double dash + double space as separator) or they will be skipped/flagged as invalid.
 

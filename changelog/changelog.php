@@ -49,10 +49,9 @@ $translations = [
         'point_6_6' => "Added caching for the Telegram post checks so repeat visits don't re-verify the same posts.",
         'point_6_7' => "Fixed the sorting panel layout on the home page: the 'sort by' bar now stays fixed at the top while the song list scrolls beneath it, with a hidden scrollbar and a stable gap between them.",
         'point_6_8' => "Extracted functionality the accounts admin panel's into its own file.",
-        'point_6_9' => "Removed the 'Сортувати' button — songs are now sorted automatically as soon as a sorting criterion is selected.",
+        'point_6_9' => "Removed the 'Sort by' button — songs are now sorted automatically as soon as a sorting criterion is selected.",
         'point_6_10' => "Redesigned the sorting panel.",
         'point_6_11' => "Completely redesigned the music player, including both its design and functionality. When switching from one song to another, the previous song is now paused instead of being stopped, so it can later be resumed from the same position.",
-        'point_6_12' => "Added 30+ new songs.",
     ],
     'uk' => [
         'header' => "Що нового?",
@@ -100,11 +99,10 @@ $translations = [
         'point_6_5' => "Додано серверну перевірку постів Telegram перед вбудовуванням — видалені чи відсутні пости тепер пропускаються, замість показу карток 'Post not found'.",
         'point_6_6' => "Додано кешування перевірки постів Telegram, щоб повторні візити не перевіряли ті самі пости заново.",
         'point_6_7' => "Виправлено розкладку панелі сортування на головній сторінці: блок 'Сортувати за' тепер лишається зафіксованим зверху, поки список пісень прокручується під ним, зі схованим скролбаром і стабільним відступом між ними.",
-        'point_6_8' => "Функціонал адмін-панелі користувачів винесено в окремий файл."
-        'point_6_9' => "Видалено кнопку «Сортувати» — тепер пісні сортуються автоматично одразу після вибору критерію.",
+        'point_6_8' => "Функціонал адмін-панелі користувачів винесено в окремий файл.",
+        'point_6_9' => "Видалено кнопку «Сортувати за» — тепер пісні сортуються автоматично одразу після вибору критерію.",
         'point_6_10' => "Повністю перероблено дизайн панелі сортування.",
         'point_6_11' => "Повністю перероблено музичний плеєр — оновлено його дизайн і функціонал. При перемиканні на іншу пісню попередня тепер ставиться на паузу, тому її можна пізніше продовжити відтворювати з того самого місця.",
-        'point_6_12' => "Додано понад 30 нових пісень.",
     ]
 ];
 ?>

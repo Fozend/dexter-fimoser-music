@@ -7,7 +7,7 @@ $files = scandir($dir);
 $songs = []; // Array for storing songs by their parts
 
 foreach ($files as $i) {
-    if ($i == "." || $i == "..") continue;
+    if ($i == "." || $i == ".." || $i == ".gitkeep") continue;
     $parts = explode(" -- ", substr($i, 0, -4));
     if (count($parts) == 4) {
         $songs[] = [
