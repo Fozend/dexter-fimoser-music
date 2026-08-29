@@ -18,6 +18,7 @@ A PHP + MySQL web application for browsing, playing, and downloading a personal 
 - [Configuration](#configuration)
 - [Getting a YouTube Data API Key](#getting-a-youtube-data-api-key)
 - [Enabling GD (with FreeType) in XAMPP](#enabling-gd-with-freetype-in-xampp)
+- [Recommended songs](#recommended-songs)
 - [Version changes](#version-changes)
 - [Supported Language](#supported-language)
 - [Feature Plans](#feature-plans)
