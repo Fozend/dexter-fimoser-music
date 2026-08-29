@@ -33,7 +33,7 @@ Dexter Fimoser Music is a small multi-page PHP site that serves a local collecti
 <p align="center">
   <img src="screenshots/image.png" width="48%">
   <img src="screenshots/photo_2026-08-29_21-19-11.jpg" width="48%">
-  <img src="screenshots/photo_2026-08-29_21-18-17" width="48%">
+  <img src="screenshots/photo_2026-08-29_21-18-17.jpg" width="48%">
   <img src="screenshots/photo_2026-08-29_21-19-52.jpg" width="48%">
 </p>
 
