@@ -31,10 +31,19 @@ A PHP + MySQL web application for browsing, playing, and downloading a personal 
 Dexter Fimoser Music is a small multi-page PHP site that serves a local collection of MP3 files (parsed directly from filenames in the `mp3/` folder) together with a simple admin panel for a `accounts` table in MySQL, a dynamically generated pie chart of songs by decade, an embedded Google Map, and a live Telegram post feed with per-post existence checking.
 
 <p align="center">
-  <img src="screenshots/image.png" width="48%">
-  <img src="screenshots/photo_2026-08-29_21-19-11.jpg" width="48%">
-  <img src="screenshots/photo_2026-08-29_21-18-17.jpg" width="48%">
-  <img src="screenshots/photo_2026-08-29_21-19-52.jpg" width="48%">
+  <img src="screenshots/image.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/photo_2026-08-29_21-19-11.jpg" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/photo_2026-08-29_21-18-17.jpg" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/photo_2026-08-29_21-19-52.jpg" width="80%">
 </p>
 
 The codebase is organized into feature folders (`db/`, `helpers/`, `includes/`, `telegramAPI/`, `changelog/`) with a shared header/menu/background system, rather than each page repeating its own boilerplate.
