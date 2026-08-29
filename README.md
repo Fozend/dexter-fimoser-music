@@ -254,6 +254,117 @@ If the `gd` section still doesn't appear after this, check that `extension_dir` 
 
 ---
 
+## Recommended Songs
+
+The site's `mp3/` folder is empty by default - add your own audio files
+following the naming format above. Here's the track list of recommended songs that evoke the vibe of "Dexter":
+
+| Artist | Title | Year | Album |
+|---|---|---|---|
+| AC-DC | Back In Black | 1980 | Back In Black |
+| AC-DC | Givin' The Dog A Bone | 1980 | Back In Black |
+| AC-DC | Highway To Hell | 1979 | Highway to Hell |
+| AC-DC | T.N.T. | 1976 | High Voltage |
+| AC-DC | Thunderstruck | 1990 | The Razors Edge |
+| AC-DC | You Shook Me All Night Long | 1980 | Back In Black |
+| adore | did i tell u that i miss u - slowed | 2024 | Сингл |
+| Alex Ferrari | Bara Bará Bere Berê (Radio Edit) | 2012 | Bara Berê |
+| algebraburr shrine | Alice Deejay - 2nd Part Extended | 2023 | Сингл |
+| Alice DJ | Better Off Alone | 2010 | Who Needs Guitars |
+| ATB | 9Pm (Till I Come) | 1999 | Movin' Melodies |
+| bambee | bumble-bee | 2021 | Сингл |
+| Basshunter | DotA - Radio Edit | 2008 | Now you're Gone |
+| Bee Gees | Stayin Alive | 1977 | Сингл |
+| Charli xcx, Kim Petras, Jay Park | Unlock it (Lock It) - feat. Kim Petras and Jay Park | 2017 | Pop 2 |
+| Chevelle | Comfortable Liar | 2002 | Wonder What's Next |
+| Chuck Berry | Johnny B. Goode | 1959 | Berry Is On Top |
+| Chuck Berry | You Never Can Tell | 1964 | St. Louis To Liverpool |
+| Clover!, DulaWry | Pretty Scene Girl! | 2023 | Сингл |
+| Daniel Licht Michael C. Hall | Tonight's the Night | 2006 | Сингл |
+| DARKSIDE | Paper Trails | 2013 | Psychic |
+| David Guetta, Kid Cudi | Memories (feat. Kid Cudi) | 2011 | One More Love |
+| Dean Martin | Sway (Quien Sera) | 1954 | Сингл |
+| Deftones | Sextape | 2008 | Diamond Eyes |
+| Depeche Mode | Enjoy the Silence | 1990 | Violator |
+| Depeche Mode | Personal Jesus | 1990 | Violator |
+| devi1ma7cry | Hello , Dexter Morgan | 2024 | Сингл |
+| Discotronic | Tricky Disco (Single Edit) | 2020 | Andrew Spencer Presents My Favorite Mental Madness Hits |
+| Discotronic | Tricky Disco - Single Edit | 2006 | Сингл |
+| Dominic Fike | Babydoll | 2018 | Don't Forget About Me, Demos |
+| Echo & the Bunnymen | The Killing Moon | 1985 | Sogs to Learn & Sing |
+| Eurythmics, Annie Lennox, Dave Stewart | Sweet Dreams (Are Made of This) | 1983 | Sweet Dreams |
+| Ferdinand fka Left Boy | Sweet Dreams (Sky like Dreams) | 2023 | Сингл |
+| Fly Project | Toca Toca | 2013 | Toca Toca (Remixes) |
+| Gigi D'Agostino | L'Amour Toujours | 1999 | Сингл |
+| Grover Washington, Jr., Bill Withers | Just The Two Of Us | 1985 |  Anthology |
+| Guns N' Roses | Sweet Child O' Mine | 1987 | Appetite For Destruction |
+| Ilysam | sweet rally | 2024 | Сингл |
+| Incubus | Drive | 1999 | Make Yourself |
+| Las Ketchup | The Ketchup Song (Asareje) | 2002 | Hijas del Tomate |
+| Loona | Bailando | 2020 | Stars |
+| Loona | Vamos a la Playa | 2020 | Stars |
+| Lou Bega | Mambo No. 5 (A Little Bit of...) | 1999 | A Little Bit of Mambo |
+| Lucky Twice | Lucky (Nightcore Mix) | 2022 | Young & Clever |
+| Luke Willies | Solitude Velocity - slowed reverb | 2023 | Сингл |
+| Lykke Li, The Magician | I Follow Rivers - The Magician Remix | 2011 | Сингл |
+| Lynyrd Skynyrd | Sweet Home Alabama | 1974 | Second Helping |
+| Mambo Mambo Mambo | Perfidia | 1997 | Mambo Mambo Mambo |
+| Mareux | The Perfect Girl | 2021 | Сингл |
+| Marilyn Manson | Sweet Dreams (Are Made Of This) | 1995 | Smells Like Children |
+| Michael Gray | The Weekend - Radio Edit | 2007 | Analog Is On |
+| Modjo | Lady - Hear Me Tonight | 2001 | Modjo(Remastered) |
+| Mr. Kitty | After Dark(Extended) | 2014 | Time |
+| Mr. President | Coco Jamboo | 1996 | We See The Same Sun |
+| Neil Diamond | Sweet Caroline | 1969 | Sweet Caroline |
+| Nirvana | Blew | 1989 | Bleach |
+| Nirvana | Come As You Are  | 1991 | Nevermind |
+| Nirvana | Drain You | 1991 | Nevermind |
+| Nirvana | Heart Shaped Box  | 1993 | In Utero |
+| Nirvana | Lithium  | 1991 | Nevermind |
+| Nirvana | Lounge Act | 1991 | Nevermind |
+| Nirvana | Rape Me | 1993 | In Utero |
+| Nirvana | Smells Like Teen Spirit  | 1991 | Nevermind |
+| Nirvana | Something In The Way | 1991 | Nevermind |
+| Nirvana | Stay Away | 1991 | Nevermind |
+| No Doubt | Hella Good | 2001 | Rock Steady |
+| Odetari | HYPNOTIC DATA | 2024 | Сингл |
+| Odetari | KEEP UP (Slowed&Reverb) | 2024 | Сингл |
+| Orange Sector | Farben | 2016 | Farben |
+| Papa Roach | Getting Away With Murder | 2004 | Getting Away With Murder |
+| Paradisio | Bailando | 1997 | Tarpeia |
+| Pastel Ghost | Iris | 2015 | Ethereality |
+| Phil Collins | In the Air Tonight | 1981 | Face Value |
+| Pitbull, AFROJACK, Ne-Yo, Nayer | Give Me Everything | 2011 | Planet Pit |
+| Rammstein | Rein raus | 2001 | Mutter |
+| Red Hot Chili Peppers | By the Way | 2002 | By thr Way |
+| Red Hot Chili Peppers | Dark Necessities | 2016 | The Getaway |
+| Regona | 104.6 Sky Fm | 2023 | Сингл |
+| Rolfe Kent | Dexter - Main Theme | 2006 | Сингл |
+| Roy Bee | Kiss Me Again - Radio Edit | 2009 | Сингл |
+| Royal Blood | Figure It Out | 2014 | Royal Blood |
+| saraunh0ly | wutiwant | 2022 | Сингл |
+| She Wants Revenge | Tear You Apart | 2005 | She Wants Revenge |
+| Snow Strippers | Under Your Spell | 2023 | April Mixtape 3 |
+| Soap&Skin | Me and the Devil | 2013 | Sugarbread |
+| Stardust | Music Sounds Better With You - feat. Benjamin Diamond, Alan Braxe, Thomas Bangalter | 1998 | Сингл |
+| Tame Impala | Dracula | 2025 | Deadbeat |
+| The Doors | Break On Through (to the other side) | 1967 | The Doors |
+| The Doors | People Are Strange | 1967 | Strange Days |
+| The Doors | Riders on the Storm | 1971 | L. A. Women |
+| The Doors | Roadhouse Blues | 1970 | Morrison Hotel |
+| The Heavy | How You Like Me Now | 2009 | The House That Dirt Built |
+| The Heavy | Short Change Hero | 2009 | The House That Dirt Built |
+| The Heavy | The Big Bad Wolf | 2012 | The Glorious Dead |
+| The Rolling Stones | Paint It, Black | 1966 | Aftermath |
+| Tila Tsoli, BJ Lips | Bimbo Doll | 2021 | Сингл |
+| Ultra Sunn | Keep Your Eyes Peeled | 2024 | Keep Your Eyes Peeled |
+| Vendredi sur mer | Écoute Chérie | 2019 | Premiers émois |
+| Videoclub, Adèle Castillon, Mattyeux | Roi | 2021 | Euphories |
+| vyrval | ✻H+3+ЯД✻7luCJIo0T6... | 2024 | Сингл |
+| Wac Toja | KOLEJNA NOC (Siup Siup Hops Ops) | 2026 | Сингл |
+
+---
+
 ## Version Changes
 
 ### `alpha 1.1.0.2`
@@ -280,7 +391,7 @@ If the `gd` section still doesn't appear after this, check that `extension_dir` 
 - Removed the **Sort by** button - songs are now sorted automatically as soon as a sorting criterion is selected.
 - Redesigned the sorting panel
 - Completely redesigned the music player, including both its design and functionality. When switching from one song to another, the previous song is now paused instead of being stopped, so it can later be resumed from the same position.,
-- Added 30+ new songs.
+- Added list of recommended songs.
 
 ---
 

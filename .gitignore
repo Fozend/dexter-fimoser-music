@@ -13,3 +13,6 @@ mp3/*.mp3
 mp3/*.m4a
 mp3/*.ogg
 mp3/*.wav
+
+# additional instruments
+*.py
